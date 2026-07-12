@@ -46,4 +46,4 @@ python main.py
 - `database.py`: ligação ao MySQL e operações da base de dados.
 - `relatorio.py`: geração do relatório HTML.
 
-Não publiques `db_config.py`, porque pode conter credenciais locais.
+Não publicar `db_config.py`, porque pode conter credenciais locais.
