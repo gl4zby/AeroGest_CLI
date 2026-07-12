@@ -28,7 +28,7 @@ Aplicação de linha de comandos em Python para gestão simples de um aeródromo
 ```powershell
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
-python -m pip install -r dependencias.tx
+python -m pip install -r dependencias.txt
 Copy-Item db_config.exemplo.py db_config.py
 ```
 
